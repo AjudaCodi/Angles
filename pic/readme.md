@@ -1,0 +1,34 @@
+- although - encara que
+- bother - molesties
+- clockwise - segons les agulles del rellotge
+- deals - ofertes
+- dumb - estupid
+- each - cada
+- even - inclus
+- fit - ajust, en forma
+- flavor - gust
+- follows - següent
+- fuss - sorollos
+- guess - adivinar
+- however - encara que, no obstant
+- inch - pulgada
+- issues - qüèstions
+- mandatory - obligatori
+- may - poden
+- might - podria
+- motion - moviment
+- pass - posar
+- quoted string - cadena entre cometes
+- shrunk - reduit
+- smooth - suau, sense arrugues
+- so - així
+- succinctly - forma breu - rapida
+- though - encara que
+- through - mitjanzant
+- tight - apretat
+- way - cami
+- we will - ho farem
+- will - serà
+- yet - encara
+
+Baig pel 6, on la pagina diu 4
