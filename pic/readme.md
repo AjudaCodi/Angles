@@ -1,3 +1,4 @@
+- amount - quantitat
 - although - encara que
 - bother - molesties
 - clockwise - segons les agulles del rellotge
@@ -28,6 +29,7 @@
 - tight - apretat
 - way - cami
 - we will - ho farem
+- which - qual
 - will - serà
 - yet - encara
 
